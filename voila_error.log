@@ -1,0 +1,6 @@
+[Voila] WARNING | Unrecognized alias: 'stdout', it will have no effect.
+[Voila] Using /tmp to store connection files
+[Voila] Storing connection files in /tmp/voila_umkrctbi.
+[Voila] Serving static files from /home/jules/.pyenv/versions/3.12.12/lib/python3.12/site-packages/voila/static.
+[Voila] Voilà is running at:
+http://localhost:8866/
